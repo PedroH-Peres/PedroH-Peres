@@ -13,7 +13,8 @@ Linguagens:
 
 <hr>
 
-![PedroH Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroH-Peres&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-Peres&theme=radical)
+![PedroH Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroH-Peres&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-Peres&theme=radical)
 
           
           
