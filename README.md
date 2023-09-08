@@ -6,8 +6,8 @@
  Programador Full Stack
  
 ### Meu stack é:
- Mobile: Flutter
- Back-end: NodeJS
+Mobile: Flutter
+Back-end: NodeJS
  
  
 Linguagens: 
