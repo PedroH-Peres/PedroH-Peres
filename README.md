@@ -2,11 +2,11 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
- Eu sou um desenvolvedor júnior brasileiro, tenho 18 anos e curso Engenharia Mecatrônica na Universidade Federal de Uberlândia(UFU) e Técnico em Automação Industrial no SENAI.
+ Eu sou um desenvolvedor júnior brasileiro, tenho 18 anos e curso Engenharia Mecatrônica na Universidade Federal de Uberlândia(UFU) e Técnico em Automação Industrial no SENAI. \n
  Programador Full Stack
  
 ### Meu stack é:
-Mobile: Flutter
+Mobile: Flutter \n
 Back-end: NodeJS
  
  
