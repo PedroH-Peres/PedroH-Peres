@@ -7,7 +7,7 @@
  
 ### Meu stack é:
 Mobile: Flutter -
- Back-end: NodeJS
+Back-end: NodeJS, Python 
  
  
 Linguagens: 
