@@ -4,13 +4,10 @@
           
  Eu sou um desenvolvedor júnior brasileiro, tenho 19 anos e curso Engenharia Mecatrônica na Universidade Federal de Uberlândia(UFU) e Técnico em Automação Industrial no SENAI.
  Programador Full Stack
+
+ Aprendendo: 
  
-### Meu stack é:
-Mobile: Flutter -
-Back-end: NodeJS - Data Science: Python
- 
- 
-Linguagens: 
+ Stack: 
 <br></br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=40 height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width=40 height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width=40 height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40 height=40/>
           
