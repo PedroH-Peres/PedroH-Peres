@@ -26,8 +26,8 @@
 <hr>
 
 <div align='center'>    
-          <img height='250em' src='https://github-readme-stats.vercel.app/api?username=PedroH-Peres&theme=radical'>
-          <img height='250em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-Peres&theme=radical'>   
+          <img height='220em' src='https://github-readme-stats.vercel.app/api?username=PedroH-Peres&theme=radical'>
+          <img height='220em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-Peres&theme=radical'>   
 </div>
 
 
