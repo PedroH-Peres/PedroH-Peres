@@ -1,6 +1,6 @@
 ## Hello World!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="400px" align="right">
 
 <p align="left"> 
   Eu sou um desenvolvedor júnior brasileiro, tenho 19 anos e curso Engenharia Mecatrônica na Universidade Federal de Uberlândia(UFU) e Técnico em Automação Industrial no SENAI.
@@ -28,11 +28,27 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width='40' height='40' />
 </p>
 
-<p align="left">
-  📄 Formas para entrar em contato:: ⤵️
+<br>
+<img src="https://i.pinimg.com/originals/f5/b9/8f/f5b98fe23fb9d753fdb7f40730d95464.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<p>
+  🧑‍💻 Engenharia Mecatrônica - UFU
 </p>
-
+<p>
+  🤖 Trainee - EDROM
+</p>
+<p>
+  🚀 Mobile Developer & Data Science
+</p>
+<p>
+  🔭 Medalhista em Olimpíadas Científicas
+</p>
+<br>
+<!--
 <p align="left">
+  🛠️ Contato:
+</p> -->
+
+<p align="center">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrohperescode@gmail.com" alt="Gmail"/></a>
 
@@ -51,6 +67,9 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+
+
+
          
 
 <hr>
@@ -59,6 +78,8 @@
           <img height='220em' src='https://github-readme-stats.vercel.app/api?username=PedroH-Peres&theme=radical'>
           <img height='220em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-Peres&theme=radical'>   
 </div>
+
+
 
 
 
