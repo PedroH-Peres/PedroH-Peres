@@ -37,7 +37,7 @@
   🤖 Trainee - EDROM
 </p>
 <p>
-  🚀 Mobile Developer & Data Science
+  🚀 Mobile Developer & Full-Stack
 </p>
 <p>
   🔭 Medalhista em Olimpíadas Científicas
