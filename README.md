@@ -34,6 +34,9 @@
   🧑‍💻 Engenharia Mecatrônica - UFU
 </p>
 <p>
+  💼 Back-end Developer at Dione Solutions
+</p>
+<p>
   🤖 Trainee - EDROM
 </p>
 <p>
