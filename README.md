@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  🤖 Trainee - EDROM
+  🤖 Membro - EDROM
 </p>
 <p>
   🚀 Mobile Developer & Full-Stack
