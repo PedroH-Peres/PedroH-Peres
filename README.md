@@ -3,8 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="400px" align="right">
 
 <p align="justify"> 
-  Eu sou um desenvolvedor júnior brasileiro, tenho 19 anos e curso Engenharia Mecatrônica [4/10] na Universidade Federal de Uberlândia (UFU).
-          Programador Full Stack
+  Eu sou um desenvolvedor brasileiro, tenho 19 anos e curso Engenharia Mecatrônica [4/10] na Universidade Federal de Uberlândia (UFU). Sou programador full-stack e desenvolvedor de I.A, além de aplicações em Robótica Móvel
 </p>
 
 <p align="left">
