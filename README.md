@@ -52,6 +52,7 @@
 <p align="left">
   🛠️ Contato:
 </p> -->
+
 <br>
 <p align="center">
   <a href="https://mail.google.com/mail/u/2/#inbox?compose=DmwnWrRnXvVFFCDJQPqwbPRnQwHdxtVgGbbBWbDfBgcBRgNZPlWFkJFGZcLRMkFxDlZDZCRmgDDb" title="Gmail">
@@ -69,6 +70,16 @@
   <a href="https://www.instagram.com/pedroh.peres7/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroh.peres7/" alt="Instagram"/></a>
 </p>
+
+<br>
+<h2>Repositórios recomendados:</h2>
+<ul>
+  <li><a href="https://github.com/PedroH-Peres/mobx_pomodoro">Pomodoro App</a></li>
+  <li><a href="https://github.com/PedroH-Peres/campo_minado">Campo Minado</a></li>
+  <li><a href="https://github.com/PedroH-Peres/trainee_edrom">Trainee EDROM</a></li>
+  <li><a href="https://github.com/PedroH-Peres/studylistapp">P Study</a></li>
+  <li><a href="https://github.com/PedroH-Peres/todostudy">To-do Study</a></li>
+</ul>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
