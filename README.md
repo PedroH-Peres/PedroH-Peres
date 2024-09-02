@@ -79,6 +79,8 @@
   <li><a href="https://github.com/PedroH-Peres/trainee_edrom">Trainee EDROM</a></li>
   <li><a href="https://github.com/PedroH-Peres/studylistapp">P Study</a></li>
   <li><a href="https://github.com/PedroH-Peres/todostudy">To-do Study</a></li>
+  <li><a href="https://github.com/PedroH-Peres/SimpleShopApp-Flutter">Simple Shop</a></li>
+  
 </ul>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
