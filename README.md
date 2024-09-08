@@ -80,6 +80,8 @@
   <li><a href="https://github.com/PedroH-Peres/studylistapp">P Study</a></li>
   <li><a href="https://github.com/PedroH-Peres/todostudy">To-do Study</a></li>
   <li><a href="https://github.com/PedroH-Peres/SimpleShopApp-Flutter">Simple Shop</a></li>
+  <li><a href="https://github.com/PedroH-Peres/a.i-learning">A.I Learning</a></li>
+  
   
 </ul>
 
