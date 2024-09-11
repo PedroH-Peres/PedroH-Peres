@@ -42,7 +42,7 @@
   🤖 Membro - EDROM
 </p>
 <p>
-  🚀 Mobile/Full-Stack and A.I Developer
+  🚀 Mobile/Full-Stack, A.I Developer & Robotics
 </p>
 <p>
   🔭 Medalhista em Olimpíadas Científicas
