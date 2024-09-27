@@ -39,7 +39,7 @@
 </p>
 
 <p>
-  🤖 Membro - EDROM
+  🤖 Membro - EDROM (Movimento e Behaviour)
 </p>
 <p>
   🚀 Mobile/Full-Stack, A.I Developer & Robotics
