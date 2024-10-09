@@ -79,7 +79,7 @@
   <li><a href="https://github.com/PedroH-Peres/trainee_edrom">Trainee EDROM</a></li>
   <li><a href="https://github.com/PedroH-Peres/studylistapp">P Study</a></li>
   <li><a href="https://github.com/PedroH-Peres/todostudy">To-do Study</a></li>
-  <li><a href="https://github.com/PedroH-Peres/microros_array_communication">MicroROS Float32 MultiArray Communicationy</a></li>
+  <li><a href="https://github.com/PedroH-Peres/microros_array_communication">MicroROS Multi Array Communication</a></li>
   <li><a href="https://github.com/PedroH-Peres/SimpleShopApp-Flutter">Simple Shop</a></li>
   <li><a href="https://github.com/PedroH-Peres/a.i-learning">A.I Learning</a></li>
   
