@@ -31,6 +31,9 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" width='40' height='40' />
           
 </p>
+<p>
+  LeetCode Profile: https://leetcode.com/u/pedrohperes/
+</p>
 
 <br>
 <img src="https://i.pinimg.com/originals/f5/b9/8f/f5b98fe23fb9d753fdb7f40730d95464.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
