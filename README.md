@@ -42,7 +42,7 @@
 </p>
 
 <p>
-  🤖 Membro - EDROM (Diretor do Movimento)
+  🤖 Diretor - EDROM 
 </p>
 <p>
   🚀 Mobile/Full-Stack, A.I Developer & Robotics
