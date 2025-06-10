@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="400px" align="right">
 
 <p align="justify"> 
-  Eu sou um desenvolvedor brasileiro, tenho 20 anos e curso Engenharia Mecatrônica [5/10] na Universidade Federal de Uberlândia (UFU). Sou programador full-stack e desenvolvedor de I.A, além de aplicações em Robótica Móvel
+  Eu sou um desenvolvedor brasileiro, tenho 20 anos e curso Engenharia Mecatrônica [6/10] na Universidade Federal de Uberlândia (UFU).
 </p>
 
 <p align="left">
@@ -46,6 +46,9 @@
 </p>
 <p>
   🚀 Mobile/Full-Stack, A.I Developer & Robotics
+</p>
+<p>
+  🤖 Researcher - Mobile Robotics Group (EESC-USP) and LAR (UFU) 
 </p>
 <p>
   🔭 Medalhista em Olimpíadas Científicas
