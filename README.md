@@ -42,7 +42,7 @@
 </p>
 
 <p>
-  🤖 Diretor - EDROM 
+  🤖 Capitão - EDROM 
 </p>
 <p>
   🚀 Mobile/Full-Stack, A.I Developer & Robotics
