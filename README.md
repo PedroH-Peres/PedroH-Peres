@@ -1,123 +1,60 @@
-# <Hello World!>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="400px" align="right">
-
-<p align="justify"> 
-  Eu sou um desenvolvedor brasileiro, tenho 20 anos e curso Engenharia Mecatrônica [6/10] na Universidade Federal de Uberlândia (UFU).
-</p>
-
-<p align="left">
-  🧠 Linguagens: 
-          <br>
-          <br>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width='40' height='40'/>
-          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='40' height='40'/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='40' height='40'/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width='40' height='40' />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width='40' height='40'/>
-          
-</p>
-
-<p align="left">
-  ⚙️ Ferramentas:
-          <br>
-          <br>
-          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='40' height='40'/>
-          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width='40' height='40' />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='40' height='40'/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width='40' height='40' />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='40' height='40'/>
-    <!--      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width='40' height='40' /> -->
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" width='40' height='40' />
-          
-</p>
-<p>
-  LeetCode Profile: https://leetcode.com/u/pedrohperes/
-</p>
-
-<br>
-<img src="https://i.pinimg.com/originals/f5/b9/8f/f5b98fe23fb9d753fdb7f40730d95464.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p>
-  🧑‍💻 Engenharia Mecatrônica - UFU
-</p>
-
-<p>
-  🤖 Capitão - EDROM 
-</p>
-<p>
-  🚀 Mobile/Full-Stack, A.I Developer & Robotics
-</p>
-<p>
-  🤖 Researcher - Mobile Robotics Group (EESC-USP) and LAR (UFU) 
-</p>
-<p>
-  🔭 Medalhista em Olimpíadas Científicas
-</p>
-<br>
-<!--
-<p align="left">
-  🛠️ Contato:
-</p> -->
-
-<br>
+### Hello, World! 👋
 <p align="center">
-  <a href="https://mail.google.com/mail/u/2/#inbox?compose=DmwnWrRnXvVFFCDJQPqwbPRnQwHdxtVgGbbBWbDfBgcBRgNZPlWFkJFGZcLRMkFxDlZDZCRmgDDb" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrohperescode@gmail.com" alt="Gmail"/></a>
-
-  <a href="https://www.linkedin.com/in/pedrohbperes/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohbperes/" alt="LinkedIn"/></a>
-<!--
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a> -->
-<!--
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a> -->
-
-  <a href="https://www.instagram.com/pedroh.peres7/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedroh.peres7/" alt="Instagram"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=30A2FF&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+a+Robotics+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
 </p>
 
-<br>
-<h2>Repositórios recomendados:</h2>
-<ul>
-  <li><a href="https://github.com/PedroH-Peres/mobx_pomodoro">Pomodoro App</a></li>
-  <li><a href="https://github.com/PedroH-Peres/campo_minado">Campo Minado</a></li>
-  <li><a href="https://github.com/PedroH-Peres/trainee_edrom">Trainee EDROM</a></li>
-  <li><a href="https://github.com/PedroH-Peres/studylistapp">P Study</a></li>
-  <li><a href="https://github.com/PedroH-Peres/todostudy">To-do Study</a></li>
-  <li><a href="https://github.com/PedroH-Peres/SimpleShopApp-Flutter">Simple Shop</a></li>
-  <li><a href="https://github.com/PedroH-Peres/microros_array_communication">MicroROS Multi Array Communication</a></li>
-  <li><a href="https://github.com/PedroH-Peres/a.i-learning">A.I Learning</a></li>
-  <li><a href="https://github.com/PedroH-Peres/breastCancer-neuralNetwork">Breast Cancer Neural Networks</a></li>
-  <li><a href="https://github.com/edromufu/edromufu">EDROM Robot Codes (Colaboratory)</a></li>
-  
-  
-  
-</ul>
+I'm a Mechatronics Engineering student who is passionate about solving complex problems in the world of robotics.
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+My primary research and development interest is **bridging hardware and software** to create intelligent, autonomous robotic systems. I have a special focus on **mobile robots**, particularly **humanoids and quadrupeds**. 🤖
 
+I love working across the entire development stack:
+* **High-Level:** Motion Planning, Control Algorithms (like MPC, ZMP and WCB), Perception, Localization (SLAM), and ROS 2 integration.
+* **Low-Level:** Microcontroller Firmware, Hardware Design, Actuator Drivers (like Dynamixels), and Real-Time Communication.
 
+---
 
+### 🚀 My Current Roles
 
-         
+I currently balance my time between my undergraduate studies and my research and leadership activities:
 
-<hr>
+* 🎓 **Mechatronics Engineering Student** at the Federal University of Uberlândia (UFU).
+* 🤖 **Captain** of **[EDROM]()** (Equipe de Desenolvimento em Robótica Móvel).
+* 🔬 **Researcher** at the Automation and Robotics Laboratory (**LAR - UFU**).
+* 🐾 **Researcher** at the **Mobile Robotics Group** (**EESC - USP**).
 
-<div align='center'>    
-          <img height='220em' src='https://github-readme-stats.vercel.app/api?username=PedroH-Peres&theme=radical'>
-          <img height='220em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-Peres&theme=radical'>   
-</div>
+---
 
+### 🛠️ Technologies & Tools
 
+I frequently work with:
 
+* **Languages:** C++, Python, C, Dart
+* **Frameworks:** ROS 2 (Humble/Iron), Gazebo, Webots
+* **Hardware:** ESP32, Arduino, Raspberry Pi, Dynamixel, Sensors (IMUs, Cameras)
+* **Tools:** Git, Docker, SolidWorks, Linux, Conda, Collab, Jupyter
 
+---
 
-          
-          
-          
+### 🔗 Let's Connect!
 
-          
-          
- 
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PedroH-Peres)-->
+I'm always open to discussing new ideas, robotics projects, or collaboration opportunities.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrohbperes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pedrohperescode@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  </p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroH-Peres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-Peres&layout=compact&langs_count=8&theme=dracula"/>
+</p>
