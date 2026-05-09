@@ -22,6 +22,9 @@ I currently balance my time between my undergraduate studies and my research and
 * 🎓 **Mechatronics Engineering Student** at the Federal University of Uberlândia (UFU).
 * 🤖 **Captain** of **[EDROM]()** (Equipe de Desenolvimento em Robótica Móvel).
 * 🔬 **Researcher** at the Automation and Robotics Laboratory (**LAR - UFU**).
+* 🎮​ **Indie Game Dev** at Star Aureo Games.
+
+Positions I no longer hold:
 * 🐾 **Researcher** at the **Mobile Robotics Group** (**EESC - USP**).
 
 ---
