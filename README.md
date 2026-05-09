@@ -33,8 +33,8 @@ Positions I no longer hold:
 
 I frequently work with:
 
-* **Languages:** C++, Python, C, Dart
-* **Frameworks:** ROS 2 (Humble/Iron), Gazebo, Webots
+* **Languages:** C++, Python, C, Dart, Java, C#
+* **Frameworks:** ROS 2 (Humble/Iron), Gazebo, Webots, Godot Engine and Unit
 * **Hardware:** ESP32, Arduino, Raspberry Pi, Dynamixel, Sensors (IMUs, Cameras)
 * **Tools:** Git, Docker, SolidWorks, Linux, Conda, Collab, Jupyter
 
