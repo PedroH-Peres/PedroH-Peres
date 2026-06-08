@@ -1,4 +1,4 @@
-### Hello, World! 👋
+### Hello, World! 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=30A2FF&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+a+Robotics+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
