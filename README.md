@@ -12,7 +12,7 @@ My primary research and development interest is **bridging hardware and software
 I love working across the entire development stack:
 * **High-Level:** Motion Planning, Control Algorithms (like MPC, ZMP and WCB), Perception, Localization (SLAM), and ROS 2 integration.
 * **Low-Level:** Microcontroller Firmware, Hardware Design, Actuator Drivers (like Dynamixels), and Real-Time Communication.
-* **Game Development:** Game Development and Modding using Java, C# and Engines like Unity and Godot
+* **Game Development:** Game Development and Game Modding using Java, C# and Engines like Unity and Godot
 
 ---
 
