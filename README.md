@@ -24,6 +24,7 @@ I currently balance my time between my undergraduate studies and my research and
 * 🤖 **Captain** of **[EDROM]()** (Equipe de Desenolvimento em Robótica Móvel).
 * 🔬 **Researcher** at the Automation and Robotics Laboratory (**LAR - UFU**).
 * 🎮​ **Indie Game Dev** at Star Aureo Games.
+* **Owner** of RoByte Study Platform: www.robyte.dev
 
 Positions I no longer hold:
 * 🐾 **Researcher** at the **Mobile Robotics Group** (**EESC - USP**).
