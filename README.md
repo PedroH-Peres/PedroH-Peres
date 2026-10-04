@@ -21,7 +21,7 @@ I love working across the entire development stack:
 I currently balance my time between my undergraduate studies and my research and leadership activities:
 
 * 🎓 **Mechatronics Engineering Student** at the Federal University of Uberlândia (UFU).
-* 🤖 **Captain** of **[EDROM]()** (Equipe de Desenolvimento em Robótica Móvel).
+* 🤖 **Captain** of **[EDROM]()** (Equipe de Desenvolvimento em Robótica Móvel).
 * 🔬 **Researcher** at the Automation and Robotics Laboratory (**LAR - UFU**).
 * 🎮​ **Indie Game Dev** at Star Aureo Games.
 * **Owner** of RoByte Study Platform: www.robyte.dev
