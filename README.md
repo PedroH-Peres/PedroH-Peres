@@ -37,7 +37,7 @@ I frequently work with:
 
 * **Languages:** C++, Python, C, Dart, Java, C#
 * **Frameworks:** ROS 2 (Humble/Iron), Gazebo, Webots, PyBullet, MuJoCo, Godot Engine and Unity Engine
-* **Hardware:** ESP32, Arduino, Raspberry Pi, Dynamixel, Sensors (IMUs, Cameras)
+* **Hardware:** ESP32, Arduino, Raspberry Pi, Dynamixel, Sensors
 * **Tools:** Git, Docker, SolidWorks, Linux, Conda, Collab, Jupyter
 
 ---
